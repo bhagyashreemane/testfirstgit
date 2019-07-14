@@ -9,7 +9,7 @@ public class inherit2 extends inhertit1 {
 	static int f;
 	public static void main(String []args)
 	{
-		inherit2 bb=new inherit2();
+		//inherit2 bb=new inherit2();
 	//shov();	
 	int a;
 	
